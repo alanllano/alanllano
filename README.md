@@ -1,6 +1,6 @@
 ## Greetings 👋 I'm Alan Llano
 
-My research interests focus on human biological immortality—through cellular senescence, genomic stability, and epigenetic reprogramming—alongside de-extinction and synthetic biology as frameworks to expand evolutionary, ecological, and biotechnological horizons.
+My research interests focus on human biological immortality—through cellular senescence and synthetic biology as frameworks to expand evolutionary and biotechnological horizons.
 
 Genomics student at UNAM, affiliated with the International Laboratory for Human Genome Research
 
